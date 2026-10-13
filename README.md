@@ -9,6 +9,8 @@
 
 I'm currently studying what we can learn about LLM serving systems from the outside. In particular, I use client-side connection and streaming timings to examine serving behavior, while testing where those measurements do **not** support reliable attribution. The work combines network instrumentation, controlled experiments, and reproducible analysis.
 
+I also have research manuscripts at different stages of preparation and submission.
+
 ## 🛠️ Open-source contributions
 
 Selected fixes merged into upstream projects:
